@@ -1,0 +1,7 @@
+C:\Users\zhaku\Desktop\InvokerInteraction\bin\Debug\InvokerInteraction.exe.config
+C:\Users\zhaku\Desktop\InvokerInteraction\bin\Debug\InvokerInteraction.exe
+C:\Users\zhaku\Desktop\InvokerInteraction\bin\Debug\InvokerInteraction.pdb
+C:\Users\zhaku\Desktop\InvokerInteraction\obj\Debug\InvokerInteraction.csproj.AssemblyReference.cache
+C:\Users\zhaku\Desktop\InvokerInteraction\obj\Debug\InvokerInteraction.csproj.CoreCompileInputs.cache
+C:\Users\zhaku\Desktop\InvokerInteraction\obj\Debug\InvokerInteraction.exe
+C:\Users\zhaku\Desktop\InvokerInteraction\obj\Debug\InvokerInteraction.pdb
